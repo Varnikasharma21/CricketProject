@@ -1,0 +1,14 @@
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.deps.json
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.runtimeconfig.json
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.runtimeconfig.dev.json
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.dll
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.pdb
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.csproj.CoreCompileInputs.cache
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.RazorAssemblyInfo.cache
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.RazorAssemblyInfo.cs
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.AssemblyInfoInputs.cache
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.AssemblyInfo.cs
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.RazorTargetAssemblyInfo.cache
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.dll
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.pdb
+C:\Users\varnika.sharma\source\repos\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.csprojAssemblyReference.cache
